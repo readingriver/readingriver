@@ -595,8 +595,8 @@ input:-webkit-autofill:focus {
 .team-box .team-image {
     position: absolute;
     top: -40px;
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     border-radius: 100%;
     background-color: #ffffff;
     text-align: center;
